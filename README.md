@@ -1,6 +1,6 @@
 # uip--prog2
-:Autor: <nombre>
-:Fecha: <fecha>
+:Autor: <Eymi>
+:Fecha: <1/07/20015>
 :Versión: <version>
 
 <descripcion>
